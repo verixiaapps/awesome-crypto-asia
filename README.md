@@ -140,6 +140,7 @@ Peer-to-peer is crucial in countries with banking restrictions:
 - [Binance Academy](https://academy.binance.com) — Available in VI, TH, ID, ZH, JA
 - [CoinMarketCap Academy](https://coinmarketcap.com/academy/) — Multi-language
 - [CoinWorld24 Articles](https://coin-world24.com/en/articles) — Daily analysis in 11 languages
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
